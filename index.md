@@ -18,9 +18,9 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 
 ## Past Meeting/Event
 
-**Inauguration Event**
-**Date & Time:** 12th August, 2023 (10:00 AM IST)
-**Venue:** NIE North Auditorium, Mysuru
-OWASP NIE Student Chapter was started at The National Institute of Engineering, Mysuru with an inauguration event which explained the aim of OWASP, what we dream to achieve as its local chapter, and some events we have planned down the pipeline. We had lighting of the lamp by our Head of Department and Student Activity Co-ordinator, as we started our chapter with their blessings and a fun quiz at the end for all attendees.
+**Inauguration Event**\
+**Date & Time:** 12th August, 2023 (10:00 AM IST)\
+**Venue:** NIE North Auditorium, Mysuru\
+OWASP NIE Student Chapter was started at The National Institute of Engineering, Mysuru with an inauguration event which explained the aim of OWASP, what we dream to achieve as its local chapter, and some events we have planned down the pipeline. We had lighting of the lamp by our Head of Department and Student Activity Co-ordinator, as we started our chapter with their blessings and a fun quiz at the end for all attendees.\
 
 ## Next Meeting/Event

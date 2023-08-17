@@ -16,6 +16,5 @@ The Open Worldwide Application Security Project (OWASP) is a nonprofit foundatio
 
 All events conducted by OWASP NIE Mysuru are free and open to anyone interested. To participate in our upcoming events, please stay tuned to our social media handles.
 
-## Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
-
+## Next Meeting/Event 
 

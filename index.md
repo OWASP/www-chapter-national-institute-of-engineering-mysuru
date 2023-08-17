@@ -18,4 +18,4 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 
 ## Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 
-{% include chapter_events.html group=page.meetup-group %}
+

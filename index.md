@@ -24,3 +24,12 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 OWASP NIE Student Chapter was started at The National Institute of Engineering, Mysuru with an inauguration event which explained the aim of OWASP, what we dream to achieve as its local chapter, and some events we have planned down the pipeline. We had lighting of the lamp by our Head of Department and Student Activity Co-ordinator, as we started our chapter with their blessings and a fun quiz at the end for all attendees.\
 
 ## Next Meeting/Event
+
+**askOWASP - Orientation Session**\
+**Date & Time:** 30th September 2023, 4:30pm IST\
+**Venue:** M.V. Hall, Golden Jubilee Block, NIE South\
+askOWASP is a general orientation about the club, its values, its team, and its plans this year.\
+We have a Tech-Talk by one of our seniors in 4th Year to guide the juniors about cracking top-notch placements and building industry-ready skills.\
+We also have a fun event planned for everyone where you can win exciting goodies & cash prizes worth 1000 INR. We have refreshments for everyone attending.\
+This is also your chance to join OWASP, be a part of the NIE Student Chapter & then get access to cool perks and swags.\
+We hope to see you there!\

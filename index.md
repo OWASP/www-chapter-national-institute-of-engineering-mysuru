@@ -27,7 +27,7 @@ askOWASP was a general orientation about the club, its values, its team, and its
 We had a Tech-Talk by one of our seniors in 4th Year who guided the juniors about cracking top-notch placements and building industry-ready skills.\
 We also had a fun event planned for everyone where they won exciting cash prizes worth 1000 INR. We had refreshments for everyone who attended.\
 This was also their chance to join OWASP, be a part of the NIE Student Chapter & then get access to cool perks.\
-We had a massive success with 110+ attendees attending the event!\
+We had a massive success with 110+ students attending the event!
 
 **Inauguration Event**\
 **Date & Time:** 12th August, 2023 (10:00 AM IST)\

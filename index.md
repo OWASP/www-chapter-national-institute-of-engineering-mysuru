@@ -18,11 +18,6 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 
 ## Next Meetings/Events
 
-**Chapter Meetup**\
-**Date & Time:** 26th November 2023, 1:00pm IST\
-**Venue:** North Avenue, Mysore\
-OWASP NIE Student Chapter is conducting its Chapter Meetup for all members and non-members. We'll discuss on potential growth strategies for our chapter and discuss tech.\
-
 **Commanding the Command Line**\
 **Date & Time:** 6th December 2023, 11:30am IST\
 **Venue:** NIE North Auditorium, Mysuru\
@@ -30,6 +25,11 @@ Commanding the Command Line is a brief introduction to using the command line.\
 We'll be going through how to use the command line in UNIX-based file systems, acting as a foundation for our next event, Flag Fury, which is our annual Capture The Flag event.
 
 ## Past Meetings/Events
+
+**Chapter Meetup**\
+**Date & Time:** 26th November 2023, 1:00pm IST\
+**Venue:** North Avenue, Mysore\
+OWASP NIE Student Chapter conducted its Chapter Meetup. We discussed on potential growth strategies for our chapter and tech over lunch and we had a wonderful celebratory gathering.
 
 **askOWASP - Orientation Session**\
 **Date & Time:** 30th September 2023, 4:30pm IST\

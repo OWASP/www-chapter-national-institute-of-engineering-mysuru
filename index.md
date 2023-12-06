@@ -18,13 +18,14 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 
 ## Next Meetings/Events
 
-**Commanding the Command Line**\
-**Date & Time:** 6th December 2023, 11:30am IST\
-**Venue:** NIE North Auditorium, Mysuru\
-Commanding the Command Line is a brief introduction to using the command line.\
-We'll be going through how to use the command line in UNIX-based file systems, acting as a foundation for our next event, Flag Fury, which is our annual Capture The Flag event.
-
 ## Past Meetings/Events
+
+**Commanding the Command Line**\
+**Date & Time:** 5th December 2023, 11:30am IST\
+**Venue:** NIE North Auditorium, Mysuru\
+Commanding the Command Line: A Smashing Success with a Quiz Showdown!\
+On December 5th, 2023, over 200 tech enthusiasts gathered for an electrifying event – “Commanding the Command Line”. This meetup ignited the passion for coding and empowered participants with the power of command line tools.\
+The session delved into the fundamentals of the command line, unlocking its potential for automation, efficiency, and technical mastery. Engaging discussions and hands-on activities allowed participants to explore various applications and unleash their command line prowess.\
 
 **Chapter Meetup**\
 **Date & Time:** 26th November 2023, 1:00pm IST\

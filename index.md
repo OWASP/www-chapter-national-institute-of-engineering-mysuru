@@ -3,6 +3,7 @@ layout: col-sidebar
 title: OWASP National Institute of Engineering Mysuru
 tags: NIE
 region: Asia
+country: India
 meetup-group: OWASP-National-Institute-Of-Engineering-Mysuru Chapter
 ---
 

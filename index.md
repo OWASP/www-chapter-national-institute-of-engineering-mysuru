@@ -19,12 +19,13 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 
 ## Next Meetings/Events
 
+## Past Meetings/Events
+
 **Pwned - CTF Workshop**\
 **Date & Time:** 08th March 2024, 9:00am IST\
 **Venue:** M.V. Hall, Golden Jubilee Block, NIE South\
-Pwned is a Capture-The-Flag workshop where we teach you how to participate in a CTF with hands-on experience. During our Commanding the Command Line event, we taught you important CLI Commands from the get-go, and now you get to experience and put your skills to the test live as you get your first hands-on on an actual CTF game!
 
-## Past Meetings/Events
+Pwned was a Capture-The-Flag workshop where we taught how to participate in a CTF with hands-on experience. During our Commanding the Command Line event, we taught you important CLI Commands from the get-go, and then you got to experience and put your skills to the test live as you got your first hands-on on an actual CTF game in this event! The event was a massive success with 300+ RSVPs!
 
 **Chapter Meetup**\
 **Date & Time:** 14th February 2024, 6:00pm IST\

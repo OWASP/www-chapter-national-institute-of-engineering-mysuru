@@ -19,12 +19,14 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 
 ## Next Meetings/Events
 
+**Stay tuned for our next event to be updated here soon!**
+
+## Past Meetings/Events
+
 **Flag Fury**\
 **Date & Time:** 23rd March 2024, 9:00am IST\
 **Venue:** M.V. Hall, Golden Jubilee Block, NIE South\
-Leveraging the skills acquired in our Pwned CTF workshop, Flag Fury invites you to put your knowledge to the test in a thrilling Capture-The-Flag competition. This event is not just a challenge; it's a battlefield where your hacking skills, strategic thinking, and resilience will be pushed to the limit. Participants will face a series of diverse and intricate security puzzles, ranging from web exploitation to cryptography, in a quest to capture the most flags.
-
-## Past Meetings/Events
+Flag Fury was an engaging Capture-The-Flag competition that challenged participants to apply their hacking skills, strategic thinking, and resilience. In this high-stakes event, attendees navigated through a series of complex and multifaceted security puzzles, from web exploitation to cryptography. The workshop was a remarkable success, drawing over 200 attendees and showcasing the community's dedication and talent in cybersecurity.
 
 **Pwned - CTF Workshop**\
 **Date & Time:** 08th March 2024, 9:00am IST\

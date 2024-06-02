@@ -19,7 +19,10 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 
 ## Next Meetings/Events
 
-**Stay tuned on our social media handles for our future events and meetups!**
+**Chapter Meetup**\
+**Date & Time:** 4th June 2024, 9:00am IST\
+**Venue:** NIE North Auditorium, Mysuru\
+OWASP NIE Student Chapter is conducting its chapter meetup to finalize the shortlisted topics for our annual newsletter and to start concluding our research paper on AppSec initiated in the month of April. Attending members are requested to finalize and give their final presentations for the newsletter. Non-members are also welcome to discuss cybersecurity in the meetup.
 
 ## Past Meetings/Events
 

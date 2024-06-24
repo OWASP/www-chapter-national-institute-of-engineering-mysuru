@@ -19,12 +19,14 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 
 ## Next Meetings/Events
 
+**Stay tuned for our future events/meetups!**
+
+## Past Meetings/Events
+
 **Secure Coding Practices Workshop**\
 **Date & Time:** 24th June 2024, 9:00am IST\
 **Venue:** NIE North Auditorium, Mysuru\
-Join us for our upcoming "Secure Coding Practices Workshop" where we'll dive into essential techniques for writing safer, more robust code. This hands-on session will cover common vulnerabilities, practical exercises, and group activities to reinforce secure coding principles. Learn how to integrate security practices into your development process and understand their relation to the OWASP Top 10. Whether you're a beginner or experienced coder, this workshop will enhance your skills in creating more secure applications.
-
-## Past Meetings/Events
+OWASP NIE Student Chapter conducted a "Secure Coding Practices Workshop" where we dived into essential techniques for writing safer, more robust code. This hands-on session covered common vulnerabilities, practical exercises, and group activities to reinforce secure coding principles. We learnt how to integrate security practices into your development process and understand their relation to the OWASP Top 10.
 
 **Chapter Meetup**\
 **Date & Time:** 4th June 2024, 9:00am IST\

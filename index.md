@@ -26,7 +26,7 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 **Git & GitHub Workshop**\
 **Date & Time:** 21st October 2024, 9:00am IST\
 **Venue:** NIE North Auditorium, Mysuru\
-OWASP NIE Student Chapter is conducting a "Git & GitHub Workshop" where we will be diving into essential techniques for version control. This hands-on session will covered commonly used commands, practical exercises, and group activities to master Git & GitHub. We will be learning how to manage issues and create PRs and try to make a meaningful PR to a popular open source repository.
+OWASP NIE Student Chapter conducted a "Git & GitHub Workshop" where we dived into essential techniques for version control. This hands-on session covered commonly used commands, practical exercises, and group activities to master Git & GitHub. We learnt how to manage issues and create PRs and had a huge attendance of enthusiastic students.
 
 **Annual Chapter Meet**\
 **Date & Time:** 23rd September 2024, 9:00am IST\

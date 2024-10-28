@@ -22,7 +22,7 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 **askOWASP 2.0 - Orientation Session**\
 **Date & Time:** 28th October 2023, 9:00am IST\
 **Venue:** M.V. Hall, Golden Jubilee Block, NIE South\
-askOWASP 2.0 is a general orientation about the club, its values, its team, and its plans this year. We have a talk by one of our seniors in 4th Year who will be guiding everyone about cracking top-notch placements and building industry-ready skills in relevance to AppSec.
+askOWASP 2.0 was a general orientation about the club, its values, its team, and its plans this year. We had a talk by one of our seniors in 4th Year who guided everyone about cracking top-notch placements and building industry-ready skills in relevance to AppSec. We had huge attendance from freshmen year students.
 
 ## Past Meetings/Events
 

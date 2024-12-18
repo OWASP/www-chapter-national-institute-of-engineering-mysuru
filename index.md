@@ -19,12 +19,14 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 
 ## Next Meetings/Events
 
+**Stay Tuned for our Upcoming Meetups, Events & Workshops!**
+
+## Past Meetings/Events
+
 **Git Gud - GitHub Workshop**\
 **Date & Time:** 18th December 2024, 11:00am IST\
 **Venue:** NIE North Auditorium, Mysuru\
-OWASP NIE Student Chapter is conducting Git Gud - an advanced GitHub workshop where freshman year students are invited to come and learn version control and how you can use it to make your productivity much faster.
-
-## Past Meetings/Events
+OWASP NIE Student Chapter conducted Git Gud - an advanced GitHub workshop where freshmen year students learnt about version control and how they can use it to make their productivity much faster.
 
 **Chapter Meetup**\
 **Date & Time:** 10th December 2024, 4:00pm IST\

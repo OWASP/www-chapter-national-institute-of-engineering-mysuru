@@ -19,12 +19,14 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 
 ## Next Meetings/Events
 
+**Stay tuned for our upcoming events/meetups!**
+
+## Past Meetings/Events
+
 **Chapter Meetup**\
 **Date & Time:** 14th January 2025, 6:30pm IST\
 **Venue:** NIE North Auditorium, Mysuru\
-OWASP NIE Student Chapter is conducting its first chapter meetup of the new semester to welcome everyone back to a new session and to discuss the recent developments in AppSec and AI Agents. 
-
-## Past Meetings/Events
+OWASP NIE Student Chapter conducted its first chapter meetup of the new semester to welcome everyone back to a new session and discussed the recent developments in AppSec and AI Agents.
 
 **Chapter Meetup**\
 **Date & Time:** 6th January 2025, 9:00am IST\

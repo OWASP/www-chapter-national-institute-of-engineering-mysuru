@@ -19,12 +19,14 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 
 ## Next Meetings/Events
 
+**Stay Tuned for our Upcoming Meetups/Events!**
+
+## Past Meetings/Events
+
 **Capture The Flag**\
 **Date & Time:** 27th January 2025, 1:00pm IST\
 **Venue:** NIE North Auditorium, Mysuru\
-OWASP NIE Student Chapter is conducting a Capture The Flag competition where students of all semesters are welcome to give our CTF a shot. You'll be using all the skills you've learnt in our workshops, so keep them handy. See you there!
-
-## Past Meetings/Events
+OWASP NIE Student Chapter conducted a Capture The Flag competition where students of all semesters tried to buzz through our CTF. It was an enthralling success with massive participation.
 
 **Chapter Meetup**\
 **Date & Time:** 20th January 2025, 9:00am IST\

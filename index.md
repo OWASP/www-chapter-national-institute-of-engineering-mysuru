@@ -19,12 +19,14 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 
 ## Next Meetings/Events
 
+**Stay tuned for our upcoming events/meetups!**
+
+## Past Meetings/Events
+
 **ZKP Workshop**\
 **Date & Time:** 5th February 2025, 9:00am IST\
 **Venue:** NIE North Auditorium, Mysuru\
-The OWASP NIE Student Chapter is hosting an insightful workshop on Zero Knowledge Proofs (ZKPs), a cutting-edge cryptographic concept revolutionizing data privacy and security. Join us to explore the fundamentals of ZKPs, their applications, and how they are shaping the future of secure online transactions.
-
-## Past Meetings/Events
+The OWASP NIE Student Chapter hosted an insightful workshop on Zero Knowledge Proofs (ZKPs), a cutting-edge cryptographic concept that revolutionized data privacy and security. Attendees explored the fundamentals of ZKPs, delved into their various applications, and discussed how they are shaping the future of secure online transactions.
 
 **Capture The Flag**\
 **Date & Time:** 27th January 2025, 1:00pm IST\

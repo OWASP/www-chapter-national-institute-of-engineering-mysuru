@@ -3,7 +3,7 @@ title: Past Events
 layout:  null
 tab: true
 order: 1
-tags: OWASP-NIE
+tags: NIE
 ---
 
 ## Past Meetings/Events

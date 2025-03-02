@@ -16,10 +16,3 @@ We welcome you to NIE Mysuru's OWASP Student Chapter. This chapter is currently 
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
 
 All events conducted by OWASP NIE Mysuru are free and open to anyone interested. To participate in our upcoming events, please stay tuned to our social media handles.
-
-## Next Meetings/Events
-
-**Introduction to PenTesting**\
-**Date & Time:** 3rd March 2025, 10:00am IST\
-**Venue:** NIE North Auditorium, Mysuru\
-OWASP NIE Student Chapter is conducting an insightful introduction to Penetration Testing. We will be going through the fundamentals of PenTesting and a hands-on experience with Kali Linux and some of its tools.

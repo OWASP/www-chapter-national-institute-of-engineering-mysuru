@@ -17,6 +17,13 @@ The Open Worldwide Application Security Project (OWASP) is a nonprofit foundatio
 
 All events conducted by OWASP NIE Mysuru are free and open to anyone interested. To participate in our upcoming events, please stay tuned to our social media handles.
 
+## Previous Meetup/Event
+
+**Chapter Meetup**\
+**Date & Time:** 24th February 2025, 1:00pm IST\
+**Venue:** NIE North Auditorium, Mysuru\
+OWASP NIE Student Chapter conducted its chapter meetup for the teams to present their proposed solutions of the projects of this semester. We shortlisted 5 projects which we would be working on.
+
 ## Next Meetup/Event
 
 **Introduction to PenTesting**\

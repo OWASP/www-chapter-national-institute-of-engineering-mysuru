@@ -8,6 +8,11 @@ tags: NIE
 
 ## Past Events
 
+**Introduction to PenTesting**\
+**Date & Time:** 3rd March 2025, 10:00am IST\
+**Venue:** NIE North Auditorium, Mysuru\
+OWASP NIE Student Chapter conducted an insightful introduction to Penetration Testing. We went through the fundamentals of PenTesting and a hands-on experience with Kali Linux and some of its tools. We also had a demo of hacking into a simulated network.
+
 **ZKP Workshop**\
 **Date & Time:** 5th February 2025, 9:00am IST\
 **Venue:** NIE North Auditorium, Mysuru\

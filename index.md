@@ -19,14 +19,14 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 
 ## Previous Meetup/Event
 
-**Chapter Meetup**\
-**Date & Time:** 24th February 2025, 1:00pm IST\
-**Venue:** NIE North Auditorium, Mysuru\
-OWASP NIE Student Chapter conducted its chapter meetup for the teams to present their proposed solutions of the projects of this semester. We shortlisted 5 projects which we would be working on.
-
-## Next Meetup/Event
-
 **Introduction to PenTesting**\
 **Date & Time:** 3rd March 2025, 10:00am IST\
 **Venue:** NIE North Auditorium, Mysuru\
-OWASP NIE Student Chapter is conducting an insightful introduction to Penetration Testing. We will be going through the fundamentals of PenTesting and a hands-on experience with Kali Linux and some of its tools.
+OWASP NIE Student Chapter conducted an insightful introduction to Penetration Testing. We went through the fundamentals of PenTesting and a hands-on experience with Kali Linux and some of its tools. We also had a demo of hacking into a simulated network.
+
+## Next Meetup/Event
+
+**Chapter Meetup**\
+**Date & Time:** 10th March 2025, 10:00am IST\
+**Venue:** NIE North Auditorium, Mysuru\
+OWASP NIE Student Chapter is conducting its chapter meetup to review and discuss the first MVPs of the projects we started and to review the sprint progress from last meetup.

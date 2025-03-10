@@ -26,7 +26,4 @@ OWASP NIE Student Chapter conducted an insightful introduction to Penetration Te
 
 ## Next Meetup/Event
 
-**Chapter Meetup**\
-**Date & Time:** 10th March 2025, 10:00am IST\
-**Venue:** NIE North Auditorium, Mysuru\
-OWASP NIE Student Chapter is conducting its chapter meetup to review and discuss the first MVPs of the projects we started and to review the sprint progress from last meetup.
+**Stay Tuned for our Upcoming Event/Meetup!**

@@ -11,4 +11,7 @@ tags: NIE
 
 ## Next Meetup
 
-**Stay Tuned for our Upcoming Meetups!**
+**Chapter Meetup**\
+**Date & Time:** 3rd April 2025, 10:00am IST\
+**Venue:** NIE North Auditorium, Mysuru\
+OWASP NIE Student Chapter is conducting the monthly chapter meetup to review progress on Phase 2 of the ongoing chapter projects and plan on the next event for the chapter.

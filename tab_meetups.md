@@ -9,6 +9,11 @@ tags: NIE
 ## Past Meetups
 
 **Chapter Meetup**\
+**Date & Time:** 3rd April 2025, 10:00am IST\
+**Venue:** NIE North Auditorium, Mysuru\
+OWASP NIE Student Chapter conducted the monthly chapter meetup where we reviewed progress on Phase 2 of the ongoing chapter projects and planned on the next event for the chapter.
+
+**Chapter Meetup**\
 **Date & Time:** 10th March 2025, 10:00am IST\
 **Venue:** NIE North Auditorium, Mysuru\
 OWASP NIE Student Chapter conducted its chapter meetup to review and discuss the first MVPs of the projects we started and reviewed the sprint progress from last meetup.

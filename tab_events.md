@@ -8,6 +8,11 @@ tags: NIE
 
 ## Past Events
 
+**Wireshark Workshop**\
+**Date & Time:** 14th April 2025, 10:00am IST\
+**Venue:** NIE North Auditorium, Mysuru\
+OWASP NIE Student Chapter successfully hosted the Wireshark Workshop, where attendees explored the fundamentals of network packet analysis. Participants learned how to capture, inspect, and analyze network traffic using Wireshark, gaining practical insights into identifying suspicious packets and understanding data flow across networks.
+
 **Social Engineering Workshop**\
 **Date & Time:** 24th March 2025, 10:00am IST\
 **Venue:** NIE North Auditorium, Mysuru\

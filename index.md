@@ -19,14 +19,11 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 
 ## Previous Meetup/Event
 
-**Wireshark Workshop**\
-**Date & Time:** 14th April 2025, 10:00am IST\
-**Venue:** NIE North Auditorium, Mysuru\
-OWASP NIE Student Chapter successfully hosted the Wireshark Workshop, where attendees explored the fundamentals of network packet analysis. Participants learned how to capture, inspect, and analyze network traffic using Wireshark, gaining practical insights into identifying suspicious packets and understanding data flow across networks.
-
-## Next Meetup/Event
-
 **Chapter Meetup**\
 **Date & Time:** 16th April 2025, 3:00pm IST\
 **Venue:** NIE North Auditorium, Mysuru\
-OWASP NIE Student Chapter is conducting a chapter meetup to review project progress and finalize our newsletter as we come to the end of the semester.
+The OWASP NIE Student Chapter successfully conducted its last chapter meetup of the semester. During the event, members reviewed the progress of ongoing projects and finalized the chapter newsletter as the semester drew to a close. The meetup provided an excellent platform for collaboration, reflection on achievements, and planning for future initiatives.
+
+## Next Meetup/Event
+
+**Stay tuned for our upcoming Meetups & Events!**

@@ -20,14 +20,11 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 ## Previous Meetup/Event
 
 **Chapter Meetup**\
-**Date & Time:** 16th April 2025, 3:00pm IST\
+**Date & Time:** 8th May 2025, 9:00am IST\
 **Venue:** NIE North Auditorium, Mysuru\
-The OWASP NIE Student Chapter successfully conducted its last chapter meetup of the semester. During the event, members reviewed the progress of ongoing projects and finalized the chapter newsletter as the semester drew to a close. The meetup provided an excellent platform for collaboration, reflection on achievements, and planning for future initiatives.
+The OWASP NIE Student Chapter successfully hosted its first meetup of the Fall Semester 2025. This kickoff session introduced our semester theme "Secure by Design" and outlined our exciting plans for the coming months. The meetup featured a brief overview of our three project tracks: Web Application Vulnerability Assessment, Mobile Security Testing, and API Security Framework Development.\
+Members had the opportunity to join project teams, learn about upcoming workshops, and network with peers interested in cybersecurity. We also discussed our planned CTF competition and industry connect sessions that will provide valuable real-world exposure. This meetup energized our community and set clear objectives for what promises to be our most engaging semester yet.
 
 ## Next Meetup/Event
 
-**Chapter Meetup**\
-**Date & Time:** 8th May 2025, 9:00am IST\
-**Venue:** NIE North Auditorium, Mysuru\
-The OWASP NIE Student Chapter is excited to host its first meetup of the Fall Semester 2025. This kickoff session will introduce our semester theme "Secure by Design" and outline our exciting plans for the coming months. The meetup will feature a brief overview of our three project tracks: Web Application Vulnerability Assessment, Mobile Security Testing, and API Security Framework Development.\
-Members will have the opportunity to join project teams, learn about upcoming workshops, and network with peers interested in cybersecurity. We'll also discuss our planned CTF competition and industry connect sessions that will provide valuable real-world exposure. This meetup aims to energize our community and set clear objectives for what promises to be our most engaging semester yet.
+**Stay Tuned for our Upcoming Meetups/Events!**

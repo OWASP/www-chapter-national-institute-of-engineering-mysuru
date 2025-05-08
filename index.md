@@ -22,9 +22,13 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 **Chapter Meetup**\
 **Date & Time:** 8th May 2025, 9:00am IST\
 **Venue:** NIE North Auditorium, Mysuru\
-The OWASP NIE Student Chapter successfully hosted its first meetup of the Fall Semester 2025. This kickoff session introduced our semester theme "Secure by Design" and outlined our exciting plans for the coming months. The meetup featured a brief overview of our three project tracks: Web Application Vulnerability Assessment, Mobile Security Testing, and API Security Framework Development.\
+OWASP NIE Student Chapter successfully hosted its first meetup of the Fall Semester 2025. This kickoff session introduced our semester theme "Secure by Design" and outlined our exciting plans for the coming months. The meetup featured a brief overview of our three project tracks: Web Application Vulnerability Assessment, Mobile Security Testing, and API Security Framework Development.\
 Members had the opportunity to join project teams, learn about upcoming workshops, and network with peers interested in cybersecurity. We also discussed our planned CTF competition and industry connect sessions that will provide valuable real-world exposure. This meetup energized our community and set clear objectives for what promises to be our most engaging semester yet.
 
 ## Next Meetup/Event
 
-**Stay Tuned for our Upcoming Meetups/Events!**
+**Beginner's Web Security Workshop**\
+**Date & Time:** 12th May 2025, 9:00am IST
+Venue: NIE North Auditorium, Mysuru
+OWASP NIE Student Chapter is organizing a hands-on workshop titled "Web Security Fundamentals" specifically designed for first-year students. This introductory session will cover the basics of web vulnerabilities, including cross-site scripting (XSS), SQL injection, and secure coding practices. Participants will learn through practical demonstrations and guided exercises in a supportive environment.\
+No prior cybersecurity knowledge is required – just bring your enthusiasm and a laptop! The workshop aims to spark interest in application security among newcomers and provide a foundation for future learning. Senior chapter members will be available as mentors throughout the session to assist participants with their hands-on exercises.

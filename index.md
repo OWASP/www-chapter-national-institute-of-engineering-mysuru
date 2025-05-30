@@ -19,10 +19,10 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 
 ## Previous Meetup/Event
 
-**Beginner's Web Security Workshop**\
-**Date & Time:** 12th May 2025, 9:00am IST\
-**Venue:** NIE Computer Lab 3, Mysuru\
-OWASP NIE Student Chapter successfully conducted its "Web Security Fundamentals" workshop with many first-year students in attendance. Participants learned about XSS, SQL injection, and secure coding practices through hands-on exercises. Senior members provided mentorship throughout the session, and the workshop received positive feedback from attendees, many of whom expressed interest in future chapter activities.
+**Advanced API Security Masterclass**\
+**Date & Time:** 14th May 2025, 2:00pm IST\
+**Venue:** NIE Innovation Center, Mysuru\
+OWASP NIE Student Chapter successfully conducted its "Modern API Security Challenges & Solutions" masterclass for senior students. The session attracted 28 participants who engaged in complex attack simulations involving OAuth 2.0 vulnerabilities and JWT token security. Students worked through real-world case studies and practiced advanced penetration testing techniques on deliberately vulnerable systems. The technical deep-dive received excellent feedback from attendees, with several participants expressing readiness to pursue industry security certifications.
 
 ## Next Meetup/Event
 

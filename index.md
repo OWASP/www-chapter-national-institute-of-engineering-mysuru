@@ -26,7 +26,4 @@ OWASP NIE Student Chapter successfully conducted its "Modern API Security Challe
 
 ## Next Meetup/Event
 
-**Advanced API Security Masterclass**\
-**Date & Time:** 14th May 2025, 2:00pm IST\
-**Venue:** NIE Innovation Center, Mysuru\
-OWASP NIE Student Chapter successfully conducted its "Modern API Security Challenges & Solutions" masterclass for senior students. The session attracted 28 participants who engaged in complex attack simulations involving OAuth 2.0 vulnerabilities and JWT token security. Students worked through real-world case studies and practiced advanced penetration testing techniques on deliberately vulnerable systems. The technical deep-dive received excellent feedback from attendees, with several participants expressing readiness to pursue industry security certifications.
+**Stay tuned for our upcoming Events/Meetups!**

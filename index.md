@@ -19,14 +19,11 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 
 ## Previous Meetup/Event
 
-**Advanced API Security Masterclass**\
-**Date & Time:** 14th May 2025, 2:00pm IST\
-**Venue:** NIE Innovation Center, Mysuru\
-OWASP NIE Student Chapter successfully conducted its "Modern API Security Challenges & Solutions" masterclass for senior students. The session attracted 28 participants who engaged in complex attack simulations involving OAuth 2.0 vulnerabilities and JWT token security. Students worked through real-world case studies and practiced advanced penetration testing techniques on deliberately vulnerable systems. The technical deep-dive received excellent feedback from attendees, with several participants expressing readiness to pursue industry security certifications.
-
-## Next Meetup/Event
-
 **Chapter Meetup**\
 **Date & Time:** 2nd June 2025, 10:00am IST\
 **Venue:** NIE North Auditorium, Mysuru\
-OWASP NIE Student Chapter will conduct its mid-semester meetup to review ongoing project progress and plan upcoming activities. The session will feature project team presentations on Web Application Vulnerability Assessment, Mobile Security Testing, and API Security Framework Development initiatives. Members will discuss preparations for the internal CTF competition scheduled for later this month and finalize details for industry expert sessions.
+OWASP NIE Student Chapter successfully conducted its mid-semester meetup to review ongoing project progress and plan upcoming activities. The session featured project team presentations on Web Application Vulnerability Assessment, Mobile Security Testing, and API Security Framework Development initiatives. Members discussed preparations for the internal CTF competition scheduled for later this month and finalized details for industry expert sessions.
+
+## Next Meetup/Event
+
+**Stay Tuned for our Upcoming Events/Meetups!**

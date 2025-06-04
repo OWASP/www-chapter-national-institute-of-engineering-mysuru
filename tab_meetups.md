@@ -9,6 +9,11 @@ tags: NIE
 ## Past Meetups
 
 **Chapter Meetup**\
+**Date & Time:** 2nd June 2025, 10:00am IST\
+**Venue:** NIE North Auditorium, Mysuru\
+OWASP NIE Student Chapter successfully conducted its mid-semester meetup to review ongoing project progress and plan upcoming activities. The session featured project team presentations on Web Application Vulnerability Assessment, Mobile Security Testing, and API Security Framework Development initiatives. Members discussed preparations for the internal CTF competition scheduled for later this month and finalized details for industry expert sessions.
+
+**Chapter Meetup**\
 **Date & Time:** 8th May 2025, 9:00am IST\
 **Venue:** NIE North Auditorium, Mysuru\
 OWASP NIE Student Chapter successfully hosted its first meetup of the Fall Semester 2025. This kickoff session introduced our semester theme "Secure by Design" and outlined our exciting plans for the coming months. The meetup featured a brief overview of our three project tracks: Web Application Vulnerability Assessment, Mobile Security Testing, and API Security Framework Development.\

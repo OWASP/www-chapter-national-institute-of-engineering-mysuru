@@ -19,14 +19,11 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 
 ## Previous Meetup/Event
 
-**Chapter Meetup**\
-**Date & Time:** 2nd June 2025, 10:00am IST\
-**Venue:** NIE North Auditorium, Mysuru\
-OWASP NIE Student Chapter successfully conducted its mid-semester meetup to review ongoing project progress and plan upcoming activities. The session featured project team presentations on Web Application Vulnerability Assessment, Mobile Security Testing, and API Security Framework Development initiatives. Members discussed preparations for the internal CTF competition scheduled for later this month and finalized details for industry expert sessions.
-
-## Next Meetup/Event
-
 **Flag Fury**\
 **Date & Time:** 7th July 2025, 9:00am IST\
 **Venue:** NIE North Auditorium, Mysuru\
-OWASP NIE Student Chapter is hosting its internal Capture The Flag competition, Flag Fury. Teams of 3-4 members will compete in jeopardy-style challenges covering web exploitation, cryptography, reverse engineering, and forensics. The competition features challenges ranging from beginner to advanced levels to accommodate all skill levels.
+OWASP NIE Student Chapter successfully hosted its internal Capture The Flag competition, Flag Fury. Teams of 3-4 members competed in jeopardy-style challenges covering web exploitation, cryptography, reverse engineering, and forensics. The competition featured challenges ranging from beginner to advanced levels to accommodate all skill levels.
+
+## Next Meetup/Event
+
+**Stay Tuned for our Upcoming Meetups/Events!**

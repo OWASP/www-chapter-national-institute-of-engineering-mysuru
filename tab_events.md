@@ -8,6 +8,11 @@ tags: NIE
 
 ## Past Events
 
+**Special Workshop - "Cloud Security Essentials"**\
+**Date & Time:** 23rd July 2025, 9:00am IST\
+**Venue:** NIE North Auditorium, Mysuru\
+OWASP NIE Student Chapter successfully organized a special workshop on "Cloud Security Essentials" during the semester break. This exclusive session covered AWS security fundamentals, container security, and cloud penetration testing techniques with hands-on experience. The special inter-semester workshop utilized the break period for skill enhancement and was attended by chapter members and interested students looking to expand their cloud security knowledge.
+
 **Flag Fury**\
 **Date & Time:** 7th July 2025, 9:00am IST\
 **Venue:** NIE North Auditorium, Mysuru\

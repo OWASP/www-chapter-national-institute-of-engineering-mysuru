@@ -19,14 +19,11 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 
 ## Previous Meetup/Event
 
-**Special Workshop - "Cloud Security Essentials"**\
-**Date & Time:** 23rd July 2025, 9:00am IST\
-**Venue:** NIE North Auditorium, Mysuru\
-OWASP NIE Student Chapter successfully organized a special workshop on "Cloud Security Essentials" during the semester break. This exclusive session covered AWS security fundamentals, container security, and cloud penetration testing techniques with hands-on experience. The special inter-semester workshop utilized the break period for skill enhancement and was attended by chapter members and interested students looking to expand their cloud security knowledge.
-
-## Next Meetup/Event
-
 **Chapter Meetup**\
 **Date & Time:** 14th August 2025, 9:00am IST\
 **Venue:** NIE North Auditorium, Mysuru\
-OWASP NIE Student Chapter is conducting its chapter meetup to kick off the new academic year with renewed energy and ambitious goals. The session will introduce new members to the chapter community, outline exciting project opportunities for the upcoming semester, and present planned workshops and industry collaboration initiatives. This gathering aims to build momentum for the new semester while welcoming fresh talent and fostering collaboration among all participants.
+OWASP NIE Student Chapter successfully conducted its chapter meetup to kick off the new academic year with renewed energy and ambitious goals. The session introduced new members to the chapter community, outlined exciting project opportunities for the upcoming semester, and presented planned workshops and industry collaboration initiatives. This gathering built momentum for the new semester while welcoming fresh talent and fostering collaboration among all participants.
+
+## Next Meetup/Event
+
+**Stay tuned for our upcoming Events/Meetups!**

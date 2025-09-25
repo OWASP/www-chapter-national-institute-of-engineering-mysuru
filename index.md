@@ -19,14 +19,11 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 
 ## Previous Meetup/Event
 
-**Chapter Meetup**\
-**Date & Time:** 3rd September 2025, 10:00am IST\
-**Venue:** NIE North Auditorium, Mysuru\
-OWASP NIE Student Chapter successfully conducted its chapter meetup to review new semester projects and discuss upcoming events. The session featured project team formations for mobile security testing and web vulnerability assessment initiatives. Members finalized preparations for the upcoming industry expert session and planned for the mid-semester workshop series. This meetup kicked off project activities while organizing upcoming events and maintaining active engagement within the chapter community.
-
-## Next Meetup/Event
-
 **Network Security Fundamentals Workshop**\
 **Date & Time:** 25th September 2025, 9:00am IST\
 **Venue:** NIE North Auditorium, Mysuru\
-OWASP NIE Student Chapter is organizing a comprehensive workshop on "Network Security Fundamentals" covering essential concepts of network protocols, firewall configurations, and intrusion detection systems. Participants will engage in hands-on exercises involving network scanning, traffic analysis, and vulnerability identification using industry-standard tools. The workshop is designed for intermediate-level students with basic networking knowledge and aims to bridge the gap between theoretical concepts and practical security implementation. Senior chapter members will provide guidance throughout the session to ensure effective learning outcomes.
+OWASP NIE Student Chapter successfully organized a comprehensive workshop on "Network Security Fundamentals" covering essential concepts of network protocols, firewall configurations, and intrusion detection systems. Participants engaged in hands-on exercises involving network scanning, traffic analysis, and vulnerability identification using industry-standard tools. The workshop was designed for intermediate-level students with basic networking knowledge and bridged the gap between theoretical concepts and practical security implementation. Senior chapter members provided guidance throughout the session to ensure effective learning outcomes.
+
+## Next Meetup/Event
+
+**Stay Tuned for our Upcoming Meetups/Events!**

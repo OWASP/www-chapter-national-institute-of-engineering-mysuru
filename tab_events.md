@@ -8,6 +8,11 @@ tags: NIE
 
 ## Past Events
 
+**Network Security Fundamentals Workshop**\
+**Date & Time:** 25th September 2025, 9:00am IST\
+**Venue:** NIE North Auditorium, Mysuru\
+OWASP NIE Student Chapter successfully organized a comprehensive workshop on "Network Security Fundamentals" covering essential concepts of network protocols, firewall configurations, and intrusion detection systems. Participants engaged in hands-on exercises involving network scanning, traffic analysis, and vulnerability identification using industry-standard tools. The workshop was designed for intermediate-level students with basic networking knowledge and bridged the gap between theoretical concepts and practical security implementation. Senior chapter members provided guidance throughout the session to ensure effective learning outcomes.
+
 **Special Workshop - "Cloud Security Essentials"**\
 **Date & Time:** 23rd July 2025, 9:00am IST\
 **Venue:** NIE North Auditorium, Mysuru\

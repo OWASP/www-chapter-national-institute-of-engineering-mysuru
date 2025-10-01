@@ -19,14 +19,11 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 
 ## Previous Meetup/Event
 
-**Network Security Fundamentals Workshop**\
-**Date & Time:** 25th September 2025, 9:00am IST\
-**Venue:** NIE North Auditorium, Mysuru\
-OWASP NIE Student Chapter successfully organized a comprehensive workshop on "Network Security Fundamentals" covering essential concepts of network protocols, firewall configurations, and intrusion detection systems. Participants engaged in hands-on exercises involving network scanning, traffic analysis, and vulnerability identification using industry-standard tools. The workshop was designed for intermediate-level students with basic networking knowledge and bridged the gap between theoretical concepts and practical security implementation. Senior chapter members provided guidance throughout the session to ensure effective learning outcomes.
-
-## Next Meetup/Event
-
 **Chapter Meetup**\
 **Date & Time:** 1st October 2025, 9:00am IST\
 **Venue:** NIE North Auditorium, Mysuru\
-OWASP NIE Student Chapter is conducting its chapter meetup to assess mid-semester project progress and plan activities for the remaining semester. The session will feature presentations from mobile security testing and web vulnerability assessment project teams showcasing their current work and findings. Members will discuss preparations for upcoming hackathons, finalize the schedule for remaining workshops, and explore opportunities for inter-chapter collaboration. This meetup aims to maintain project momentum while ensuring alignment with semester goals and addressing any technical challenges faced by teams.
+OWASP NIE Student Chapter successfully conducted its chapter meetup to assess mid-semester project progress and plan activities for the remaining semester. The session featured presentations from mobile security testing and web vulnerability assessment project teams showcasing their current work and findings. Members discussed preparations for upcoming hackathons, finalized the schedule for remaining workshops, and explored opportunities for inter-chapter collaboration. This meetup maintained project momentum while ensuring alignment with semester goals and addressing any technical challenges faced by teams.
+
+## Next Meetup/Event
+
+**Stay Tuned for our Upcoming Meetups/Events!**

@@ -1,0 +1,28 @@
+leaders:
+  - name: Shilpa BV
+    email: shilpa.bv@owasp.org
+  - name: Arnav Bhattacharya
+    email: arnav.bhattacharya@owasp.org
+    github: atzgg132
+  - name: Keerti Krith
+    email: keerti.krith@owasp.org
+  - name: Suryansh Pratap Shahi
+    email: suryansh.pratapshahi@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: Karnataka
+  city: Mysuru
+  latitude: 12.28063285
+  longitude: 76.64102623062027
+meetup_group: OWASP-National-Institute-Of-Engineering-Mysuru Chapter
+name: OWASP National Institute of Engineering Mysuru
+repositories:
+  - name: www-chapter-national-institute-of-engineering-mysuru
+    url: https://github.com/OWASP/www-chapter-national-institute-of-engineering-mysuru
+    description: OWASP Foundation Web Repository
+tags:
+  - NIE
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-national-institute-of-engineering-mysuru

@@ -8,6 +8,11 @@ tags: NIE
 
 ## Past Events
 
+**Advanced Malware Analysis Workshop**\
+**Date & Time: 10th November 2025, 9:00am IST**\
+**Venue: NIE North Auditorium, Mysuru**\
+OWASP NIE Student Chapter successfully organized an advanced workshop on "Malware Analysis Techniques" focusing on reverse engineering, behavioral analysis, and threat detection methodologies. Participants worked with malware samples in isolated environments to understand attack patterns and develop defensive strategies. The workshop was designed for students with programming knowledge and covered static and dynamic analysis tools used in cybersecurity operations. This hands-on session provided practical exposure to real-world malware threats and equipped participants with essential skills for careers in threat intelligence and incident response.
+
 **Network Security Fundamentals Workshop**\
 **Date & Time:** 25th September 2025, 9:00am IST\
 **Venue:** NIE North Auditorium, Mysuru\

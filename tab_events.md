@@ -8,6 +8,11 @@ tags: NIE
 
 ## Past Events
 
+**Ethical Hacking and Penetration Testing Workshop**\
+**Date & Time: 22nd December 2025, 9:00am IST**\
+**Venue: NIE North Auditorium, Mysuru**\
+OWASP NIE Student Chapter successfully organized a comprehensive workshop on "Ethical Hacking and Penetration Testing" covering reconnaissance techniques, vulnerability exploitation, and post-exploitation strategies. Participants learned industry-standard penetration testing methodologies and worked through hands-on scenarios simulating real-world security assessments. The workshop was designed for students interested in offensive security and covered essential tools used by professional penetration testers. This session provided practical skills in ethical hacking while emphasizing responsible disclosure and legal considerations in security testing.
+
 **Advanced Malware Analysis Workshop**\
 **Date & Time: 10th November 2025, 9:00am IST**\
 **Venue: NIE North Auditorium, Mysuru**\

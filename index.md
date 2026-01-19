@@ -19,14 +19,14 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 
 ## Previous Meetup/Event
 
-**Advanced Malware Analysis Workshop**\
-**Date & Time: 10th November 2025, 9:00am IST**\
-**Venue: NIE North Auditorium, Mysuru**\
-OWASP NIE Student Chapter successfully organized an advanced workshop on "Malware Analysis Techniques" focusing on reverse engineering, behavioral analysis, and threat detection methodologies. Participants worked with malware samples in isolated environments to understand attack patterns and develop defensive strategies. The workshop was designed for students with programming knowledge and covered static and dynamic analysis tools used in cybersecurity operations. This hands-on session provided practical exposure to real-world malware threats and equipped participants with essential skills for careers in threat intelligence and incident response.
-
-## Next Meetup/Event
-
 **Ethical Hacking and Penetration Testing Workshop**\
 **Date & Time: 22nd December 2025, 9:00am IST**\
 **Venue: NIE North Auditorium, Mysuru**\
-OWASP NIE Student Chapter is organizing a comprehensive workshop on "Ethical Hacking and Penetration Testing" covering reconnaissance techniques, vulnerability exploitation, and post-exploitation strategies. Participants will learn industry-standard penetration testing methodologies and work through hands-on scenarios simulating real-world security assessments. The workshop is designed for students interested in offensive security and covers essential tools used by professional penetration testers. This session aims to provide practical skills in ethical hacking while emphasizing responsible disclosure and legal considerations in security testing.
+OWASP NIE Student Chapter successfully organized a comprehensive workshop on "Ethical Hacking and Penetration Testing" covering reconnaissance techniques, vulnerability exploitation, and post-exploitation strategies. Participants learned industry-standard penetration testing methodologies and worked through hands-on scenarios simulating real-world security assessments. The workshop was designed for students interested in offensive security and covered essential tools used by professional penetration testers. This session provided practical skills in ethical hacking while emphasizing responsible disclosure and legal considerations in security testing.
+
+## Next Meetup/Event
+
+**Chapter Meetup**\
+**Date & Time: 20th January 2026, 9:00am IST**\
+**Venue: NIE North Auditorium, Mysuru**\
+OWASP NIE Student Chapter will conduct its chapter meetup to kick off the Spring Semester 2026 with fresh initiatives and goals. The session will introduce new members to the chapter, outline project opportunities for the semester, and present the roadmap for upcoming workshops and events. Members will learn about collaboration opportunities with industry partners, participate in team formations for new security projects, and discuss plans for participation in national-level cybersecurity competitions. This meetup aims to energize the community for the new semester while welcoming newcomers and setting clear objectives for continued growth and learning.

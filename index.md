@@ -19,14 +19,11 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 
 ## Previous Meetup/Event
 
-**Ethical Hacking and Penetration Testing Workshop**\
-**Date & Time: 22nd December 2025, 9:00am IST**\
-**Venue: NIE North Auditorium, Mysuru**\
-OWASP NIE Student Chapter successfully organized a comprehensive workshop on "Ethical Hacking and Penetration Testing" covering reconnaissance techniques, vulnerability exploitation, and post-exploitation strategies. Participants learned industry-standard penetration testing methodologies and worked through hands-on scenarios simulating real-world security assessments. The workshop was designed for students interested in offensive security and covered essential tools used by professional penetration testers. This session provided practical skills in ethical hacking while emphasizing responsible disclosure and legal considerations in security testing.
-
-## Next Meetup/Event
-
 **Chapter Meetup**\
 **Date & Time: 20th January 2026, 9:00am IST**\
 **Venue: NIE North Auditorium, Mysuru**\
-OWASP NIE Student Chapter will conduct its chapter meetup to kick off the Spring Semester 2026 with fresh initiatives and goals. The session will introduce new members to the chapter, outline project opportunities for the semester, and present the roadmap for upcoming workshops and events. Members will learn about collaboration opportunities with industry partners, participate in team formations for new security projects, and discuss plans for participation in national-level cybersecurity competitions. This meetup aims to energize the community for the new semester while welcoming newcomers and setting clear objectives for continued growth and learning.
+OWASP NIE Student Chapter successfully conducted its chapter meetup to kick off the Spring Semester 2026 with fresh initiatives and goals. The session introduced new members to the chapter, outlined project opportunities for the semester, and presented the roadmap for upcoming workshops and events. Members learned about collaboration opportunities with industry partners, participated in team formations for new security projects, and discussed plans for participation in national-level cybersecurity competitions. This meetup energized the community for the new semester while welcoming newcomers and setting clear objectives for continued growth and learning.
+
+## Next Meetup/Event
+
+**Stay Tuned for our Upcoming Meetups/Events!**

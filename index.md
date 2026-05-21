@@ -19,14 +19,11 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 
 ## Previous Meetup/Event
 
-**Chapter Meetup**\
-**Date & Time: 12th May 2026, 9:00am IST**\
-**Venue: NIE North Auditorium, Mysuru**\
-OWASP NIE Student Chapter successfully conducted its final chapter meetup of the Spring Semester 2026 to wrap up projects and celebrate achievements. The session featured final project presentations from all security project teams showcasing their completed work and key findings. Members finalized the semester newsletter, discussed summer internship opportunities, and outlined transition plans for the next academic year. This meetup recognized member contributions throughout the semester while setting the foundation for continued chapter activities and maintaining engagement during the break period.
-
-## Next Meetup/Event
-
 **Semester-End Project Showcase**\
 **Date & Time: 14th May 2026, 9:00am IST**\
 **Venue: NIE North Auditorium, Mysuru**\
-OWASP NIE Student Chapter will host its Semester-End Project Showcase featuring comprehensive presentations from all project teams. Teams working on mobile security testing, web vulnerability assessment, and API security framework development will demonstrate their research findings, tools developed, and security insights gained throughout the semester. The event will include live demonstrations, technical deep-dives, and Q&A sessions with faculty members and industry guests. This showcase aims to highlight the practical application of security concepts learned during the semester and provide a platform for teams to share their work with the broader academic community.
+OWASP NIE Student Chapter successfully hosted its Semester-End Project Showcase featuring comprehensive presentations from all project teams. Teams working on mobile security testing, web vulnerability assessment, and API security framework development demonstrated their research findings, tools developed, and security insights gained throughout the semester. The event included live demonstrations, technical deep-dives, and Q&A sessions with faculty members and industry guests. This showcase highlighted the practical application of security concepts learned during the semester and provided a platform for teams to share their work with the broader academic community.
+
+## Next Meetup/Event
+
+**Stay Tuned for our Upcoming Events/Meetups!**

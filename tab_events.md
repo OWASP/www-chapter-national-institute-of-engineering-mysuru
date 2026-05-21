@@ -8,6 +8,11 @@ tags: NIE
 
 ## Past Events
 
+**Semester-End Project Showcase**\
+**Date & Time: 14th May 2026, 9:00am IST**\
+**Venue: NIE North Auditorium, Mysuru**\
+OWASP NIE Student Chapter successfully hosted its Semester-End Project Showcase featuring comprehensive presentations from all project teams. Teams working on mobile security testing, web vulnerability assessment, and API security framework development demonstrated their research findings, tools developed, and security insights gained throughout the semester. The event included live demonstrations, technical deep-dives, and Q&A sessions with faculty members and industry guests. This showcase highlighted the practical application of security concepts learned during the semester and provided a platform for teams to share their work with the broader academic community.
+
 **Ethical Hacking and Penetration Testing Workshop**\
 **Date & Time: 22nd December 2025, 9:00am IST**\
 **Venue: NIE North Auditorium, Mysuru**\

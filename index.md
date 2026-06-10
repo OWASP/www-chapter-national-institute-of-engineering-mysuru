@@ -19,14 +19,11 @@ All events conducted by OWASP NIE Mysuru are free and open to anyone interested.
 
 ## Previous Meetup/Event
 
-**Semester-End Project Showcase**\
-**Date & Time: 14th May 2026, 9:00am IST**\
-**Venue: NIE North Auditorium, Mysuru**\
-OWASP NIE Student Chapter successfully hosted its Semester-End Project Showcase featuring comprehensive presentations from all project teams. Teams working on mobile security testing, web vulnerability assessment, and API security framework development demonstrated their research findings, tools developed, and security insights gained throughout the semester. The event included live demonstrations, technical deep-dives, and Q&A sessions with faculty members and industry guests. This showcase highlighted the practical application of security concepts learned during the semester and provided a platform for teams to share their work with the broader academic community.
-
-## Next Meetup/Event
-
 **Chapter Meetup**\
 **Date & Time: 10th June 2026, 3:00pm IST**\
 **Venue: NIE North Auditorium, Mysuru**\
-OWASP NIE Student Chapter will conduct its chapter meetup to kick off the Summer Semester 2026 with renewed energy and ambitious goals. The session will introduce new members to the chapter community, outline exciting project opportunities for the upcoming semester, and present the semester roadmap. Members will learn about planned workshops, industry collaboration initiatives, and opportunities for participation in cybersecurity competitions. This meetup aims to energize the community for the new semester while welcoming fresh talent and fostering collaboration among all participants.
+OWASP NIE Student Chapter successfully conducted its chapter meetup to kick off the Summer Semester 2026 with renewed energy and ambitious goals. The session introduced new members to the chapter community, outlined exciting project opportunities for the upcoming semester, and presented the semester roadmap. Members learned about planned workshops, industry collaboration initiatives, and opportunities for participation in cybersecurity competitions. This meetup energized the community for the new semester while welcoming fresh talent and fostering collaboration among all participants.
+
+## Next Meetup/Event
+
+**Stay tuned for our upcoming Meetups/Events!**

@@ -8,6 +8,11 @@ tags: NIE
 
 ## Past Events
 
+**Secure Coding Practices Workshop**\
+**Date & Time: 15th September 2026, 1:00pm IST**\
+**Venue: NIE North Auditorium, Mysuru**\
+OWASP NIE Student Chapter successfully conducted a workshop on "Secure Coding Practices" focusing on common vulnerabilities in application development and prevention techniques. Participants learned about input validation, output encoding, authentication mechanisms, and secure error handling through practical code examples. The workshop covered real-world scenarios where insecure coding leads to exploitable vulnerabilities and demonstrated how to write resilient, secure code. This hands-on session was designed for developers and students looking to enhance their secure development skills and understand the importance of security in the software development lifecycle.
+
 **Semester-End Project Showcase**\
 **Date & Time: 14th May 2026, 9:00am IST**\
 **Venue: NIE North Auditorium, Mysuru**\
